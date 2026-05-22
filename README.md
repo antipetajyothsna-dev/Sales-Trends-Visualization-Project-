@@ -224,5 +224,5 @@ B.Tech Student | Data Analytics Intern
 
 Internship Details 🏢
 
-This project was developed as part of the internship program at CODTECH IT SOLUTIONS.
+This project was developed as part of the internship program at CODTECH IT SOLUTIONS..
 
