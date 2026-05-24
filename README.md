@@ -219,7 +219,7 @@ Author 👩‍💻
 
 Antipeta Jyothsna
 
-B.Tech Student | Data Analytics Intern
+B.Tech Student | Data Analytics Intern(Intern ID: CITS1536)
 
 
 Internship Details 🏢
